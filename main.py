@@ -1,4 +1,5 @@
-# source: https://github.com/paulilioaica/Llama2-Pytorch
+# source: most of the llm code was taken/modified from https://github.com/paulilioaica/Llama2-Pytorch
+#         neurosim - https://github.com/neurosim/DNN_NeuroSim_V2.1
 
 from llama import Llama2
 import torch
